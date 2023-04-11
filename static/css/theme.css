@@ -64,7 +64,7 @@
 }
 
 body {
-    background: #fff;
+    background: #f7f9fc;
     color: #777;
 }
 body #chapter h1 {
@@ -398,6 +398,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     }
 }
 #body .nav {
+    color: #312C46;
     position: fixed;
     top: 0;
     bottom: 0;
